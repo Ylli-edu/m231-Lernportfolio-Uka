@@ -1,4 +1,4 @@
-##M231
+M231
 
 Was habe ich Heute gemacht:
 Heute haben wir einen Quiz über die letzte Woche gemacht. Danach erstellten wir in einer Gruppe eine Tabelle zum Spaghetti kochen und benutzen Mermaid.live um ein Diagramm zu erstellen. Zum Schluss lernten wir etwas über Datenschutzgesetz in der EU und der Schweiz.Danach  mussten wir in den gleichen Gruppen eine PPT darüber machen.
