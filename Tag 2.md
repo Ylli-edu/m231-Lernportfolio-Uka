@@ -10,7 +10,7 @@ Danach mussten wir in den gleichen Gruppen eine **PPT** darüber machen.
 
 ---
 
-### Notizen zum revidierten Datenschutzgesetz (revDSG)
+### Notizen zum revidierten Datenschutzgesetz (revDSG) (Notizen von anderen PPT's)
 
 #### Die 5 Grundsätze:
 1. **Rechtmässigkeit:** Ohne Einwilligung Daten nicht an dritte Personen abgeben, ausser es liegen rechtliche Gründe vor.
