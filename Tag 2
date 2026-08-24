@@ -6,8 +6,6 @@ Was habe ich Heute gemacht:
 
 Code Tabelle:
 
-
-
 ```mermaid
 flowchart TB
     A(["🍝 Spaghetti kochen"]) --> B["Wasser in einen großen Topf geben"]
