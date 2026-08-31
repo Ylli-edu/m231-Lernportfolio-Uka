@@ -16,7 +16,12 @@ flowchart TD
   CIA --> I
   CIA --> A
 ```
-
+| Nr. | Situation | Betroffenes CIA-Ziel |
+| :--- | :--- | :--- |
+| **1** | Ein Ransomware-Angriff verschlüsselt alle Dateien eines Spitals. |Verfügbarkeit|
+| **2** | Ein Praktikant liest heimlich Personalakten von Kolleg:innen. |Vertraulichkeit |
+| **3** | Auf einer Webseite werden Preise durch eine Sicherheitslücke unbemerkt verändert. |Integrität |
+| **4** | Ein DDoS-Angriff legt einen Online-Shop für Stunden lahm. | Verfügbarkeit|
 
  
  
