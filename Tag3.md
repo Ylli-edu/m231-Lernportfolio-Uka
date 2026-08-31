@@ -4,6 +4,7 @@
  
 ### 24.08.26
 ---
+## CIA-Triade – Schutzziele der Informationssicherheit
  
 ```mermaid
 flowchart TD
