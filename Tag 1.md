@@ -1,6 +1,9 @@
-# M231
-
-## Tag 1
+# M231 Lernjournal
+### Ylli Uka
+### PE26a
+#### Tag 1
+ 
+### 17.08.26
 
 ### Was habe ich heute gemacht?
 Heute habe ich eine Einführung in **GitLab**, **GitHub** und **NotebookLM** bekommen.  
