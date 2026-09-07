@@ -1,6 +1,9 @@
-# M231
-
-## Tag 2
+# M231 Lernjournal
+### Ylli Uka
+### PE26a
+#### Tag 2
+ 
+### 24.08.26
 
 ### Was habe ich heute gemacht?
 Heute haben wir einen **Quiz** über die letzte Woche gemacht.  
