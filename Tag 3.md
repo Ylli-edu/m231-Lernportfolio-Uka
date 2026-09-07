@@ -3,7 +3,7 @@
 ### PE26a
 #### Tag 3
  
-### 01.09.26
+### 31.08.26
 ---
 ## 1. CIA-Triade – Schutzziele der Informationssicherheit
  
