@@ -2,7 +2,7 @@
 ### Ylli Uka
 ### PE26a
  
-### 24.08.26
+### 01.09.26
 ---
 ## 1. CIA-Triade – Schutzziele der Informationssicherheit
  
