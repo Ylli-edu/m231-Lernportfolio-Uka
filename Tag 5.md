@@ -1,5 +1,12 @@
-# Lernjournal – Tag 5
-**Datum: 21.09.2026**
+# M231 Lernjournal
+
+### Ylli Uka
+
+### PE26a
+
+### Tag 5
+
+### 21.09.26
 
 ## Was habe ich heute gelernt?
 Heute habe ich die wichtigsten Themen aus den Tagen 1–4 für die LB1-Prüfung wiederholt. Dabei konnte ich mein Wissen zu Authentifizierung, Social Engineering, Datenschutz, CIA-Triade, VPN/Tor, Lizenzen, Cookies und Dark Patterns nochmals festigen.
