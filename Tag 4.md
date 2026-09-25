@@ -4,7 +4,7 @@
 ### Tag 4
 ### 07.09.26
 ---
-### **Mein LB1-Ergebnis:** 7.04 / 10.00 Punkte (in 2.5 Minuten)
+### **Mein LB1 Probe-Ergebnis:** 7.04 / 10.00 Punkte (in 2.5 Minuten)
 
 ---
 
