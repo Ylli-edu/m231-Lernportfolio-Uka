@@ -26,7 +26,7 @@
 
 | # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
 |---|---|---|---|
-| 1 | **Einwilligung (Consent-Banner)**: Werden Tracking-Cookies abgelehnt? | Erfüllt | Cookies werden zu 90 % konsequent abgelehnt; Brave Shields blockiert viele Banner direkt. |
+| 1 | **Einwilligung (Consent-Banner)**: Werden Tracking-Cookies abgelehnt? | Erfüllt | Cookies werden zu 90 % konsequent abgelehnt(manuell); Brave Shields blockiert viele Banner direkt. |
 | 2 | **Transparenz in Datenschutzerklärung**: Werden genutzte Dienste geprüft? | Teilweise | Auf besuchten Seiten wird die Datenschutzerklärung bei Bedarf stichprobenartig auf Tracking-Dienste geprüft. |
 | 3 | **IP-Anonymisierung & Schutz**: Wird die IP-Adresse geschützt? | Erfüllt | Brave Shields und Adblocker verhindern direkte Anfragen an bekannte Tracking-Server. |
 | 4 | **Do Not Track (DNT) / GPC**: Wird das Signal zur Nicht-Nachverfolgung gesendet? | Erfüllt | Brave sendet automatisch Signale wie Global Privacy Control (GPC) / DNT an Webseiten. |
