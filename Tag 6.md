@@ -7,39 +7,41 @@
 ### Tag 6
 
 ### 28.09.26
-
-
+ 
 
 **Thema:** Webtracking & Datenschutz auf Websites  
-**Quelle:** [datenschutz.ch - Webtracking verhindern](https://www.datenschutz.ch/meine-daten-schuetzen/webtracking-verhindern)  
-
-
----
-
-## Checkliste 1: Website-Datenschutz & Cookie-Consent
-
-| # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
-|---|---|---|---|
-| 1 | **Einwilligung (Consent-Banner)**: Werden Tracking-Cookies erst nach expliziter Zustimmung gesetzt? | Teilweise | Cookie-Banner ist vorhanden, aber der «Ablehnen»-Button ist schwer auffindbar. Muss gleichwertig platziert werden. |
-| 2 | **Transparenz in Datenschutzerklärung**: Werden alle Tracking-Tools namentlich genannt? | Nicht erfüllt | Ein Analytics-Dienst ist aktiv, fehlt aber in der Datenschutzerklärung. Sofortige Ergänzung notwendig. |
-| 3 | **IP-Anonymisierung**: Werden IP-Adressen bei Analyse-Tools gekürzt? | Erfüllt | IP-Anonymisierung im Skript ist korrekt konfiguriert. |
-| 4 | **Do Not Track (DNT)**: Respektiert die Website das DNT-Signal des Browsers? | Nicht erfüllt | DNT-Header wird vom Server ignoriert. Konfiguration auf dem Webserver anpassen. |
-| 5 | **Drittlandübermittlung**: Werden Daten in Länder ohne angemessenen Datenschutz (z. B. USA) übermittelt? | Teilweise | Übermittlung findet statt; Standardvertragsklauseln (SCC) vorhanden, Risikoanalyse fehlt noch. |
-
-### Reflexion zu Checkliste 1
-Bei der Überprüfung der Webtracking-Massnahmen fällt auf, dass technische Grundeinstellungen wie die IP-Anonymisierung oft problemlos funktionieren, während rechtliche Vorgaben wie die transparente Datenschutzerklärung vernachlässigt werden. Besonders Cookie-Consent-Banner stellen eine häufige Schwachstelle dar, wenn das Ablehnen erschwert wird. Überrascht hat mich, wie viele Daten ungewollt an Drittanbieter abfliessen können, wenn keine genaue Überprüfung stattfindet.
+**Quelle:** [datenschutz.ch - Webtracking verhindern](https://www.datenschutz.ch/meine-daten-schuetzen/webtracking-verhindern)
 
 ---
 
-## Checkliste 2: Technische & Organisatorische Schutzmassnahmen (Webtracking verhindern)
+### Checkliste 1: Website-Datenschutz & Cookie-Handling (Eigene Nutzung)
 
 | # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
 |---|---|---|---|
-| 1 | **Deaktivierung von Drittanbieter-Cookies**: Sind Third-Party-Cookies standardmässig blockiert? | Teilweise | Im Browser empfohlen; auf der Website werden Third-Party-Cookies noch nicht konsequent verhindert. |
-| 2 | **Einsatz datenschutzfreundlicher Alternativen**: Werden datenschutzfreundliche Suchmaschinen und Dienste genutzt? | Erfüllt | Dienste wie DuckDuckGo oder Startpage werden als datenschutzfreundliche Alternativen gefördert. |
-| 3 | **Skript- und Tracker-Blockierung**: Werden nicht erforderliche Skripte eingeschränkt oder kontrolliert? | Teilweise | Keine automatische Skript-Blockierung vorhanden; Einsatz von Tools wie NoScript/Ghostery empfohlen. |
-| 4 | **Automatische Löschung von Caches & Verlauf**: Gibt es Richtlinien zur automatischen Bereinigung von Sitzungsdaten? | Nicht erfüllt | Caches und Verlauf bleiben unbegrenzt gespeichert. Automatische Löschregeln einrichten. |
-| 5 | **Isolierung von Nutzungskontexten**: Werden datenintensive Dienste (z. B. Social Media) isoliert betrieben? | Teilweise | Keine strikte Containering-Pflicht (z. B. Facebook Container); Sensibilisierung der Nutzer erforderlich. |
+| 1 | **Einwilligung (Consent-Banner)**: Werden Tracking-Cookies abgelehnt? | Erfüllt | Cookies werden zu 90 % konsequent abgelehnt; Brave Shields blockiert viele Banner direkt. |
+| 2 | **Transparenz in Datenschutzerklärung**: Werden genutzte Dienste geprüft? | Teilweise | Auf besuchten Seiten wird die Datenschutzerklärung bei Bedarf stichprobenartig auf Tracking-Dienste geprüft. |
+| 3 | **IP-Anonymisierung & Schutz**: Wird die IP-Adresse geschützt? | Erfüllt | Brave Shields und Adblocker verhindern direkte Anfragen an bekannte Tracking-Server. |
+| 4 | **Do Not Track (DNT) / GPC**: Wird das Signal zur Nicht-Nachverfolgung gesendet? | Erfüllt | Brave sendet automatisch Signale wie Global Privacy Control (GPC) / DNT an Webseiten. |
+| 5 | **Drittlandübermittlung**: Werden Datenabflüsse in Drittstaaten minimiert? | Erfüllt | Durch das Blockieren von US-Trackern (z. B. Google Analytics) wird der ungewollte Datenabfluss verhindert. |
 
-### Reflexion zu Checkliste 2
-Die Analyse der technischen und organisatorischen Schutzmassnahmen zeigt, dass der Schutz vor Webtracking stark von einer Kombination aus serverseitigen Einstellungen und benutzerseitigem Verhalten abhängt. Während serverseitig oft die notwendigen Vorkehrungen fehlen (z. B. automatische Löschfristen oder DNT-Unterstützung), müssen Anwendende zusätzliche Tools wie Tracker-Blocker einsetzen. Überrascht hat mich, wie effektiv einfache technische Massnahmen wie Container-Plugins sein können, um browserübergreifendes Tracking wirksam einzudämmen.
+---
+
+### Checkliste 2: Technische Schutzmassnahmen (Konkretes Setup)
+
+| # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
+|---|---|---|---|
+| 1 | **Deaktivierung von Drittanbieter-Cookies**: Sind Third-Party-Cookies blockiert? | Erfüllt | Der Brave Browser blockiert Third-Party-Cookies standardmässig und konsequent. |
+| 2 | **Einsatz datenschutzfreundlicher Alternativen**: Werden sichere Tools genutzt? | Erfüllt | Brave Browser sowie 1Password / Proton Pass für sicheres Passwort-Management im Einsatz. |
+| 3 | **Skript- und Tracker-Blockierung**: Werden Fingerprinting & Skripte blockiert? | Erfüllt | Integrierter Adblocker & Brave Shields blockieren Werbe-Skripte und Tracker automatisch. |
+| 4 | **Sichere Passwort- & Sitzungsverwaltung**: Werden Zugangsdaten geschützt? | Erfüllt | Verwenden von Passwort-Managern (1Password / Proton Pass) schützt vor Phishing und schwachen Passwörtern. |
+| 5 | **Isolierung von Nutzungskontexten**: Werden Sitzungsdaten getrennt? | Erfüllt | Brave isoliert Storage und Cookies pro Domain (Ephemeral Storage / Fingerprinting Protection). |
+---
+
+### Aha-Moment:
+Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne es überhaupt zu merken, aber gleichzeitig, wie **einfach** man sich davor schützen kann. Man muss absolut kein IT-Profi sein und oft reichen schon ein paar gezielte Einstellungen im Browser aus.
+
+### Was ich gelernt habe:
+* **Schutz ist eine Kombination:** Es reicht nicht, nur gelegentlich Cookie-Banner wegzuklicken. Wirklich effektiv ist das Zusammenspiel aus eigenem Verhalten (z. B. Logouts nach der Nutzung), richtigen Browser-Einstellungen (Drittanbieter-Cookies blockieren) und passenden Schutz-Tools.
+* **Automatische Helfer nutzen:** Ein datenschutzorientierter Browser (wie Brave) oder gute Add-ons nehmen einem 90 % der Arbeit ab und blockieren Tracker ganz automatisch im Hintergrund.
+* **Gewohnheiten anpassen:** Schon kleine Änderungen wie die Nutzung von alternativen Suchmaschinen (DuckDuckGo/Startpage) oder Passwort-Managern (1Password/Proton Pass) bringen extrem viel Schutz mit sehr wenig Aufwand.
+```
