@@ -7,7 +7,11 @@
 ### Tag 6
 
 ### 28.09.26
- 
+
+ <details>
+  <summary>
+1.	Block: Checklisten Datenschutzbeauftragter (LB3-Auftrag) (Abgeschlossen)
+  </summary>
 
 **Thema:** Webtracking & Datenschutz auf Websites  
 **Quelle:** [datenschutz.ch - Webtracking verhindern](https://www.datenschutz.ch/meine-daten-schuetzen/webtracking-verhindern)
