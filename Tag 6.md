@@ -18,6 +18,10 @@
 
 ---
 
+
+
+
+
 ### Checkliste 1: Website-Datenschutz & Cookie-Handling (Eigene Nutzung)
 
 | # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
@@ -48,4 +52,3 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 * **Schutz ist eine Kombination:** Es reicht nicht, nur gelegentlich Cookie-Banner wegzuklicken. Wirklich effektiv ist das Zusammenspiel aus eigenem Verhalten (z. B. Logouts nach der Nutzung), richtigen Browser-Einstellungen (Drittanbieter-Cookies blockieren) und passenden Schutz-Tools.
 * **Automatische Helfer nutzen:** Ein datenschutzorientierter Browser (wie Brave) oder gute Add-ons nehmen einem 90 % der Arbeit ab und blockieren Tracker ganz automatisch im Hintergrund.
 * **Gewohnheiten anpassen:** Schon kleine Änderungen wie die Nutzung von alternativen Suchmaschinen (DuckDuckGo/Startpage) oder Passwort-Managern (1Password/Proton Pass) bringen extrem viel Schutz mit sehr wenig Aufwand.
-```
