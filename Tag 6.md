@@ -71,7 +71,7 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
   * **Schlüssel:** `MODUL`
   * **Geheimtext:** `POWYYEQKOEL`
 
-![Screenshot 2026-09-28 152157](https://github.com/user-attachments/assets/698acffb-944f-4d92-9694-df76840d2139)
+![cryptool](img/Cryptool.png)
 
 ### Was ich bei Vigenère gelernt habe
 * **Polyalphabetische Verschlüsselung:** Derselbe Klartext-Buchstabe wird je nach Position im Schlüsselwort zu unterschiedlichen Geheimtext-Buchstaben verschoben.
