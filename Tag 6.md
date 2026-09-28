@@ -10,7 +10,7 @@
 ---
  <details>
   <summary>
-1.	Block: Checklisten Datenschutzbeauftragter (LB3-Auftrag) (Abgeschlossen)
+Block: Checklisten Datenschutzbeauftragter 
   </summary>
 
 
@@ -81,7 +81,7 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 
 
 <details>
-<summary><b>2. KI-Werkstatt 4: Caesar-Häufigkeitsanalyse</b></summary>
+<summary><b>2. KI-Werkstatt : Caesar-Häufigkeitsanalyse</b></summary>
 
 ### Caesar-Code knacken mit Häufigkeitsanalyse
 * **Rolle der KI:** Generatorin des Chiffrats (Schlüssel vorab geheim).
