@@ -101,20 +101,11 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 </details>
 
 
-## Gesamtfazit & Lernerfolg – Tag 06
+`
+## Fazit Tag 06
 
-### Zusammenfassung aller Blöcke
-Im heutigen Unterricht wurden alle Blöcke zu **Datenschutz-Audits** und **symmetrischer Verschlüsselung** erfolgreich durchgearbeitet:
+* **Webtracking (LB3):** Mit den richtigen Browser-Einstellungen (Brave, Drittanbieter-Cookies blockieren) und Tools (Proton Pass / 1Password) stoppt man 90 % der Spuren automatisch.
+* **Caesar & ROT13:** Sehr einfach, aber unsicher – mit der deutschen Buchstaben-Häufigkeit (**ENISRAT**) lässt sich der Code sofort knacken.
+* **Vigenère (Cryptool):** Durch ein Schlüsselwort ändern sich die Verschiebungen, was einfaches Abzählen verhindert.
 
-1. **Datenschutz-Checklisten & Webtracking (LB3-Auftrag):** 
-   Beim Ausfüllen der zwei DSB-Checklisten wurde das eigene Nutzungsverhalten analysiert. Es hat sich gezeigt, dass man bereits mit einfachen Browser-Einstellungen (z. B. Brave Shields, Drittanbieter-Cookies blockieren) und passenden Tools (Passwort-Manager wie Proton Pass / 1Password) über 90 % der ungewollten Datenabflüsse automatisch stoppt.
-
-2. **Historische symmetrische Verfahren:**
-   * **Caesar-Chiffre & ROT13:** Einfache Verschiebung um einen festen Zahlenwert. Da das Verfahren monoalphabetisch ist, bleibt die deutsche Buchstabenstatistik (Merkwort **ENISRAT**) vollständig erhalten und macht den Code anfällig für Angriffe.
-   * **Vigenère-Chiffre (Cryptool.org):** Nutzung eines variablen Schlüsselworts (z. B. `MODUL`). Durch die polyalphabetische Verschlüsselung ändern sich die Verschiebungsabstände pro Buchstabe, was das einfache Abzählen von Buchstaben erschwert.
-
-3. **KI-Werkstatt 4 (Praktisches Knacken):**
-   Ein von der KI generierter Geheimtext wurde von Hand mittels Häufigkeitsanalyse analysiert und mit Hilfe von **ENISRAT** erfolgreich entschlüsselt (`KPL KHALUZPJOLYOLPA PZA PT TVKBS ZLOY DPJOAPN` → *DIE DATENSICHERHEIT IST IM MODUL SEHR WICHTIG*, Schlüssel = 7).
-
-### Persönliches Fazit
-Alle Aufgaben und Blöcke von Tag 06 sind nun vollständig verstanden und gelöst. Die Mischung aus praktischen Datenschutz-Audits und den kryptographischen Hand-Übungen hat anschaulich gezeigt, wie Datensicherheit im Alltag funktioniert und warum moderne Verschlüsselungsverfahren (wie AES) historische Chiffren abgelöst haben.
+**Fazit:** Alle Blöcke von Tag 06 gelöst und das Prinzip symmetrischer Verschlüsselung komplett verstanden!
