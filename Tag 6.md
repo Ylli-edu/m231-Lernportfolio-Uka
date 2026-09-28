@@ -62,7 +62,7 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
  
 
 <details>
-<summary><b> Vigenère-Chiffre mit Cryptool.org</b></summary>
+<summary>Vigenère-Chiffre mit Cryptool.org</b></summary>
 
 ### Vigenère-Verschlüsselung (Praxis-Test)
 * **Funktionsweise:** Im Gegensatz zur Caesar-Chiffre wird kein fester Zahlenwert, sondern ein **Schlüsselwort (nur aus Buchstaben)** genutzt.
@@ -81,7 +81,7 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 
 
 <details>
-<summary><b>2. KI-Werkstatt : Caesar-Häufigkeitsanalyse</b></summary>
+<summary> KI-Werkstatt : Caesar-Häufigkeitsanalyse</b></summary>
 
 ### Caesar-Code knacken mit Häufigkeitsanalyse
 * **Rolle der KI:** Generatorin des Chiffrats (Schlüssel vorab geheim).
@@ -99,3 +99,22 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 * **Schnelle Verifikation:** Kurze Häufigkeitswörter (wie `KPL` → `DIE` oder `PZA` → `IST`) verraten und bestätigen den Schlüssel innerhalb von Sekunden.
 
 </details>
+
+
+## Gesamtfazit & Lernerfolg – Tag 06
+
+### Zusammenfassung aller Blöcke
+Im heutigen Unterricht wurden alle Blöcke zu **Datenschutz-Audits** und **symmetrischer Verschlüsselung** erfolgreich durchgearbeitet:
+
+1. **Datenschutz-Checklisten & Webtracking (LB3-Auftrag):** 
+   Beim Ausfüllen der zwei DSB-Checklisten wurde das eigene Nutzungsverhalten analysiert. Es hat sich gezeigt, dass man bereits mit einfachen Browser-Einstellungen (z. B. Brave Shields, Drittanbieter-Cookies blockieren) und passenden Tools (Passwort-Manager wie Proton Pass / 1Password) über 90 % der ungewollten Datenabflüsse automatisch stoppt.
+
+2. **Historische symmetrische Verfahren:**
+   * **Caesar-Chiffre & ROT13:** Einfache Verschiebung um einen festen Zahlenwert. Da das Verfahren monoalphabetisch ist, bleibt die deutsche Buchstabenstatistik (Merkwort **ENISRAT**) vollständig erhalten und macht den Code anfällig für Angriffe.
+   * **Vigenère-Chiffre (Cryptool.org):** Nutzung eines variablen Schlüsselworts (z. B. `MODUL`). Durch die polyalphabetische Verschlüsselung ändern sich die Verschiebungsabstände pro Buchstabe, was das einfache Abzählen von Buchstaben erschwert.
+
+3. **KI-Werkstatt 4 (Praktisches Knacken):**
+   Ein von der KI generierter Geheimtext wurde von Hand mittels Häufigkeitsanalyse analysiert und mit Hilfe von **ENISRAT** erfolgreich entschlüsselt (`KPL KHALUZPJOLYOLPA PZA PT TVKBS ZLOY DPJOAPN` → *DIE DATENSICHERHEIT IST IM MODUL SEHR WICHTIG*, Schlüssel = 7).
+
+### Persönliches Fazit
+Alle Aufgaben und Blöcke von Tag 06 sind nun vollständig verstanden und gelöst. Die Mischung aus praktischen Datenschutz-Audits und den kryptographischen Hand-Übungen hat anschaulich gezeigt, wie Datensicherheit im Alltag funktioniert und warum moderne Verschlüsselungsverfahren (wie AES) historische Chiffren abgelöst haben.
