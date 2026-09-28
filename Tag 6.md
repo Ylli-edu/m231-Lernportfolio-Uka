@@ -7,11 +7,14 @@
 ### Tag 6
 
 ### 28.09.26
-
+---
  <details>
   <summary>
 1.	Block: Checklisten Datenschutzbeauftragter (LB3-Auftrag) (Abgeschlossen)
   </summary>
+
+
+
 
 **Thema:** Webtracking & Datenschutz auf Websites  
 **Quelle:** [datenschutz.ch - Webtracking verhindern](https://www.datenschutz.ch/meine-daten-schuetzen/webtracking-verhindern)
@@ -34,6 +37,7 @@
 
 ---
 
+ 
 ### Checkliste 2: Technische Schutzmassnahmen (Konkretes Setup)
 
 | # | Prüfpunkt | Einschätzung | Kommentar / Massnahme |
@@ -52,3 +56,46 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 * **Schutz ist eine Kombination:** Es reicht nicht, nur gelegentlich Cookie-Banner wegzuklicken. Wirklich effektiv ist das Zusammenspiel aus eigenem Verhalten (z. B. Logouts nach der Nutzung), richtigen Browser-Einstellungen (Drittanbieter-Cookies blockieren) und passenden Schutz-Tools.
 * **Automatische Helfer nutzen:** Ein datenschutzorientierter Browser (wie Brave) oder gute Add-ons nehmen einem 90 % der Arbeit ab und blockieren Tracker ganz automatisch im Hintergrund.
 * **Gewohnheiten anpassen:** Schon kleine Änderungen wie die Nutzung von alternativen Suchmaschinen (DuckDuckGo/Startpage) oder Passwort-Managern (1Password/Proton Pass) bringen extrem viel Schutz mit sehr wenig Aufwand.
+* 
+---
+</details>
+ 
+
+<details>
+<summary><b> Vigenère-Chiffre mit Cryptool.org</b></summary>
+
+### Vigenère-Verschlüsselung (Praxis-Test)
+* **Funktionsweise:** Im Gegensatz zur Caesar-Chiffre wird kein fester Zahlenwert, sondern ein **Schlüsselwort (nur aus Buchstaben)** genutzt.
+* **Durchführung auf cryptool.org:**
+  * **Klartext:** `DATENSCHUTZ`
+  * **Schlüssel:** `MODUL`
+  * **Geheimtext:** `POWYYEQKOEL`
+
+![Screenshot 2026-09-28 152157](https://github.com/user-attachments/assets/698acffb-944f-4d92-9694-df76840d2139)
+
+### Was ich bei Vigenère gelernt habe
+* **Polyalphabetische Verschlüsselung:** Derselbe Klartext-Buchstabe wird je nach Position im Schlüsselwort zu unterschiedlichen Geheimtext-Buchstaben verschoben.
+* **Schutz vor einfacher Häufigkeitsanalyse:** Da Buchstaben nicht immer gleich ersetzt werden, verwischen die typischen Buchstaben-Muster einer Sprache.
+
+</details>
+
+
+<details>
+<summary><b>2. KI-Werkstatt 4: Caesar-Häufigkeitsanalyse</b></summary>
+
+### Caesar-Code knacken mit Häufigkeitsanalyse
+* **Rolle der KI:** Generatorin des Chiffrats (Schlüssel vorab geheim).
+* **Geheimtext:** `KPL KHALUZPJOLYOLPA PZA PT TVKBS ZLOY DPJOAPN`
+* **Analyse-Schritte:**
+  * Buchstabenzählung: `P` (7x) und `L` (3x) kommen am häufigsten vor.
+  * Anwendung des Merkworts **ENISRAT** (Annahme: Der häufigste Buchstabe im Deutschen ist **E**).
+  * Die Annahme `L` = `E` ergibt eine Verschiebung von 7 Stellen im Alphabet.
+* **Ergebnis:**
+  * **Schlüssel:** `7`
+  * **Klartext:** `DIE DATENSICHERHEIT IST IM MODUL SEHR WICHTIG`
+
+### Was ich bei der Caesar-Häufigkeitsanalyse gelernt habe
+* **Unzulänglichkeit von Caesar:** Monoalphabetische Verfahren sind sehr unsicher, da die Sprachstatistik (z. B. **ENISRAT** im Deutschen) im Geheimtext vollständig erhalten bleibt.
+* **Schnelle Verifikation:** Kurze Häufigkeitswörter (wie `KPL` → `DIE` oder `PZA` → `IST`) verraten und bestätigen den Schlüssel innerhalb von Sekunden.
+
+</details>
