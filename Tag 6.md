@@ -101,7 +101,7 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 </details>
 
 
-`
+
 ## Fazit Tag 06
 
 * **Webtracking:** Mit den richtigen Browser-Einstellungen (Brave, Drittanbieter-Cookies blockieren) und Tools (Proton Pass / 1Password) stoppt man 90 % der Spuren automatisch.
