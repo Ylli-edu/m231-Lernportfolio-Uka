@@ -104,7 +104,7 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 `
 ## Fazit Tag 06
 
-* **Webtracking (LB3):** Mit den richtigen Browser-Einstellungen (Brave, Drittanbieter-Cookies blockieren) und Tools (Proton Pass / 1Password) stoppt man 90 % der Spuren automatisch.
+* **Webtracking:** Mit den richtigen Browser-Einstellungen (Brave, Drittanbieter-Cookies blockieren) und Tools (Proton Pass / 1Password) stoppt man 90 % der Spuren automatisch.
 * **Caesar & ROT13:** Sehr einfach, aber unsicher – mit der deutschen Buchstaben-Häufigkeit (**ENISRAT**) lässt sich der Code sofort knacken.
 * **Vigenère (Cryptool):** Durch ein Schlüsselwort ändern sich die Verschiebungen, was einfaches Abzählen verhindert.
 
