@@ -14,7 +14,7 @@
 
 
 ```mermaid
-
+---
 title: Symmetrische Verschlüsselung 
 ---
 flowchart LR
@@ -59,9 +59,7 @@ Get-FileHash "C:\Users\yiua\Downloads\Gebäudeplan.png" -Algorithm MD5
 * **Hash-Wert:** `95ADEF958BB3081AAD876D55B0F6357D`
 * **Datei-Pfad:** `C:\Users\yiua\Downloads\Gebäudeplan.png`
 
-### **Nachweis (Screenshot)**
-![PowerShell MD5 Hash-Berechnung](./Screenshot_2026-10-19_144749.png)
-```
+
 
 
 
