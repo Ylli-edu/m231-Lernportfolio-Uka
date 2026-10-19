@@ -14,8 +14,7 @@
 
 
 ```mermaid
----
-title: Symmetrische Verschlüsselung (Secret-Key-Verfahren)
+title: Symmetrische Verschlüsselung 
 ---
 flowchart LR
     A["Sender (Alice)"] -- "1. Klartext" --> V["Verschlüsselung"]
