@@ -24,7 +24,6 @@ flowchart LR
     E -- "4. Klartext" --> B["Empfänger (Bob)"]
 ```
 
----
 
 ```mermaid
 ---
