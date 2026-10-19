@@ -9,6 +9,8 @@
 ### 19.10.26
 ---
 
+## Verschlüsselungen
+
 ```mermaid
 ---
 title: Symmetrische Verschlüsselung (Secret-Key-Verfahren)
@@ -22,7 +24,7 @@ flowchart LR
     E -- "4. Klartext" --> B["Empfänger (Bob)"]
 ```
 
-
+---
 
 ```mermaid
 ---
