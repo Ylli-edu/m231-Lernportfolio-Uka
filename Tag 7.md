@@ -24,6 +24,20 @@ flowchart LR
 
 
 
+```mermaid
+---
+title: Asymmetrische Verschlüsselung
+---
+flowchart LR
+    A["Sender (Alice)"] -- "1. Klartext" --> V["Verschlüsselung"]
+    PUB["🔑 Bobs Public Key\n(Öffentlich)"] -.-> V
+    V -- "2. Geheimtext" --> N["Netzwerk"]
+    N -- "3. Geheimtext" --> E["Entschlüsselung"]
+    PRIV["🔑 Bobs Private Key\n(Geheim)"] -.-> E
+    E -- "4. Klartext" --> B["Empfänger (Bob)"]
+```
+
+
 
 
 
