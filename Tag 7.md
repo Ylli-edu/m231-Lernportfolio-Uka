@@ -72,4 +72,3 @@ Get-FileHash "C:\Users\yiua\Downloads\Gebäudeplan.png" -Algorithm MD5
 * **Asymmetrische Verschlüsselung:** Schlüsselpaar aus Public Key (zum Verschlüsseln) und Private Key (zum Entschlüsseln).
 * **Hashwerte (PowerShell):** Überprüfung der Datei-Integrität mittels `Get-FileHash` (z. B. MD5 / SHA256).
 * **Lernjournal-Review mit Linus Gätzi:** Erfolgreich erledigt! Wir eide hatten ein gutes strukturiertes Journal.
-```
