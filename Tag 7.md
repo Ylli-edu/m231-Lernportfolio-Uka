@@ -12,7 +12,7 @@
 ## Verschlüsselungen
 
 ```mermaid
----
+
 title: Symmetrische Verschlüsselung (Secret-Key-Verfahren)
 ---
 flowchart LR
