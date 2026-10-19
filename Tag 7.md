@@ -62,5 +62,6 @@ Get-FileHash "C:\Users\yiua\Downloads\Gebäudeplan.png" -Algorithm MD5
 
 
 
+<img width="1732" height="407" alt="Screenshot 2026-10-19 144749" src="https://github.com/user-attachments/assets/aa98d5d7-e6da-4af2-800e-ea71b6ec2283" />
 
 
