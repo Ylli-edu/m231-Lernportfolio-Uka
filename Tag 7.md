@@ -42,4 +42,27 @@ flowchart LR
 
 
 
+## Integritätsprüfung mit PowerShell (Hashwerte)
+
+### **Erklärung & Ziel**
+Um sicherzustellen, dass eine Datei bei der Übertragung nicht verändert oder beschädigt wurde (**Integritätsprüfung**), wird ein kryptografischer **Hashwert** (Fingerabdruck) berechnet. Ändert sich die Datei auch nur minimal, verändert sich der Hashwert komplett.
+
+### **Durchführung**
+In der Windows PowerShell wurde der MD5-Hashwert für die Datei `Gebäudeplan.png` ermittelt:
+
+```powershell
+Get-FileHash "C:\Users\yiua\Downloads\Gebäudeplan.png" -Algorithm MD5
+```
+
+**Ausgabe / Ergebnis:**
+* **Algorithmus:** MD5
+* **Hash-Wert:** `95ADEF958BB3081AAD876D55B0F6357D`
+* **Datei-Pfad:** `C:\Users\yiua\Downloads\Gebäudeplan.png`
+
+### **Nachweis (Screenshot)**
+![PowerShell MD5 Hash-Berechnung](./Screenshot_2026-10-19_144749.png)
+```
+
+
+
 
