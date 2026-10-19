@@ -64,4 +64,12 @@ Get-FileHash "C:\Users\yiua\Downloads\Gebäudeplan.png" -Algorithm MD5
 
 <img width="1732" height="407" alt="Screenshot 2026-10-19 144749" src="https://github.com/user-attachments/assets/aa98d5d7-e6da-4af2-800e-ea71b6ec2283" />
 
+---
 
+# Was habe ich heute gelernt?
+
+* **Symmetrische Verschlüsselung:** Ein gemeinsamer Schlüssel für Ver- und Entschlüsselung (schnell, aber Schlüsselaustausch ist schwierig).
+* **Asymmetrische Verschlüsselung:** Schlüsselpaar aus Public Key (zum Verschlüsseln) und Private Key (zum Entschlüsseln).
+* **Hashwerte (PowerShell):** Überprüfung der Datei-Integrität mittels `Get-FileHash` (z. B. MD5 / SHA256).
+* **Lernjournal-Review mit Linus Gätzi:** Erfolgreich erledigt! Wir eide hatten ein gutes strukturiertes Journal.
+```
