@@ -9,6 +9,10 @@
 ### 19.10.26
 ---
 
+## Verschlüsselungsverfahren
+
+
+
 ```mermaid
 ---
 title: Symmetrische Verschlüsselung (Secret-Key-Verfahren)
