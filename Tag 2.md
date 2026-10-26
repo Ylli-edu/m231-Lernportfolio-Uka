@@ -4,7 +4,7 @@
 ### Tag 2
  
 ### 24.08.26
-
+---
 ### Was habe ich heute gemacht?
 Heute haben wir einen **Quiz** über die letzte Woche gemacht.  
 Danach erstellten wir in einer Gruppe eine Tabelle zum **Spaghetti kochen** und benutzen **Mermaid.live** um ein Diagramm zu erstellen.  
