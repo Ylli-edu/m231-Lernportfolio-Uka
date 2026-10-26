@@ -4,7 +4,7 @@
 ### Tag 1
  
 ### 17.08.26
-
+---
 ### Was habe ich heute gemacht?
 Heute habe ich eine Einführung in **GitLab**, **GitHub** und **NotebookLM** bekommen.  
 Danach haben wir eine Partneraufgabe zur Frage gemacht, welche **Authentifizierung** man nutzen sollte.  
