@@ -119,3 +119,12 @@ flowchart LR
 
 
   
+
+
+---
+
+## Was habe ich heute gelernt?
+
+* **CIA-Triade:** Ich habe gelernt, dass Informationssicherheit aus Vertraulichkeit, Integrität und Verfügbarkeit besteht. Diese Schutzziele helfen dabei, Sicherheitsprobleme richtig einzuordnen.
+* **Datenschutz und Datensicherheit:** Ich kann besser unterscheiden, ob es bei einem Problem um den rechtmässigen Umgang mit Personendaten oder um den technischen Schutz von Daten geht.
+* **Tracking, VPN und Tor:** Ich habe gelernt, dass Webseiten digitale Spuren wie Cookies und Browser-Fingerprints nutzen können. VPN und Tor können bestimmte Informationen über meine Verbindung verbergen, bieten aber keinen vollständigen Schutz vor jeder Form von Nachverfolgung.
