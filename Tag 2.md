@@ -79,12 +79,8 @@ flowchart TB
 
 ---
 
-## Handlungsziele (HZ)
+## Was habe ich heute gelernt?
 
-**HZ 1:** Ich kann einen einfachen Ablauf als Tabelle planen und mit Mermaid.live als Diagramm darstellen.
-
-**Bezug:** Beim Erstellen der Tabelle zum Spaghetti kochen habe ich Arbeitsschritte geordnet und daraus ein Ablaufdiagramm erstellt.
-
-**HZ 2:** Ich kann wichtige Grundsätze des Datenschutzes in der EU und in der Schweiz beschreiben.
-
-**Bezug:** Durch die Gruppenarbeit und die Präsentationen zum Datenschutzgesetz habe ich die Grundsätze wie Rechtmässigkeit, Verhältnismässigkeit, Zweckbindung, Richtigkeit und Datensicherheit kennengelernt.
+* **Abläufe darstellen:** Ich habe gelernt, Arbeitsschritte übersichtlich zu ordnen und einen Ablauf wie das Spaghetti kochen mit Mermaid.live als Diagramm darzustellen.
+* **Datenschutz:** Ich kenne wichtige Grundsätze des Datenschutzes, darunter Rechtmässigkeit, Verhältnismässigkeit, Zweckbindung, Richtigkeit und Datensicherheit.
+* **Gruppenarbeit und Präsentation:** Durch das Erarbeiten und Präsentieren unserer Inhalte habe ich geübt, Informationen zum Datenschutz verständlich zusammenzufassen und weiterzugeben.
