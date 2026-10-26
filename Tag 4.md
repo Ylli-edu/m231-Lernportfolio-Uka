@@ -18,7 +18,7 @@
 
 ## Gelöste Aufgaben
 
-### 1. Lizenzen zuordnen [10]
+### 1. Lizenzen zuordnen 
 *   Schulprojekt (frei für alle, mit Namensnennung) -> **CC BY** 
 *   Firma teilt Code (will Änderungen nicht zwingend zurück) -> **MIT** 
 *   Fotograf teilt Bilder (kein Kommerz, keine Bearbeitung) -> **CC BY-NC-ND** 
