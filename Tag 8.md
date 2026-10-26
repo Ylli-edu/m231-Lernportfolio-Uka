@@ -49,4 +49,4 @@ Unter Windows mit **Gpg4win / Kleopatra**:
 * **CIA in echt:** Sicherheit ist nicht nur Geheimhaltung, sondern vor allem Verfügbarkeit (Backups!).
 * **Risiko-Formel:** $\text{Risiko} = \text{Wahrscheinlichkeit} \times \text{Ausmass}$ hilft beim Priorisieren von Massnahmen.
 * **Das Schloss-Prinzip (GPG):** Der Public Key ist ein offenes Vorhängeschloss, das man jedem geben kann. Nur der Empfänger hat den passenden Private Key zum Aufsperren.
-* **Persönliches Fazit:** Im Terminal fand ich GPG anfangs verwirrend, aber mit Kleopatra hat es Klick gemacht. Sicherheit scheitert fast nie an der Technik, sondern an Bequemlichkeit (wie 15 Leute mit einem Passwort).
+* **Persönliches Fazit:** Mit der App Kleopatra war es einfach. Sicherheit crasht fast nie an der Technik, sondern an Bequemlichkeit (wie 15 Leute mit einem Passwort).
