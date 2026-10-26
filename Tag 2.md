@@ -75,3 +75,16 @@ flowchart TB
     classDef check fill:#fefce8,stroke:#facc15,stroke-width:2px,color:#713f12
     classDef finish fill:#f0fdf4,stroke:#4ade80,stroke-width:2px,color:#14532d
 ```
+
+
+---
+
+## Handlungsziele (HZ)
+
+**HZ 1:** Ich kann einen einfachen Ablauf als Tabelle planen und mit Mermaid.live als Diagramm darstellen.
+
+**Bezug:** Beim Erstellen der Tabelle zum Spaghetti kochen habe ich Arbeitsschritte geordnet und daraus ein Ablaufdiagramm erstellt.
+
+**HZ 2:** Ich kann wichtige Grundsätze des Datenschutzes in der EU und in der Schweiz beschreiben.
+
+**Bezug:** Durch die Gruppenarbeit und die Präsentationen zum Datenschutzgesetz habe ich die Grundsätze wie Rechtmässigkeit, Verhältnismässigkeit, Zweckbindung, Richtigkeit und Datensicherheit kennengelernt.
