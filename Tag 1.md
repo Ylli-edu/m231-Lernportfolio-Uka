@@ -20,12 +20,8 @@ Dabei haben wir über **Authentifizierung**, **Autorisierung**, **Vishing** und 
 
 ---
 
-## Handlungsziele (HZ)
+## Was habe ich heute gelernt?
 
-**HZ 1:** Ich kann erklären, was Authentifizierung und Autorisierung bedeuten und worin sie sich unterscheiden.
-
-**Bezug:** Bei der Einführung in GitLab, GitHub und NotebookLM sowie bei der Partneraufgabe zur Authentifizierung habe ich mich mit der Überprüfung von Identitäten und der Vergabe von Berechtigungen beschäftigt.
-
-**HZ 2:** Ich kann Risiken wie Vishing erkennen und grundlegende Regeln für sichere Passwörter nennen.
-
-**Bezug:** In der Diskussion über Vishing und Passwortsicherheit habe ich gelernt, wie Angreifer versuchen, an Zugangsdaten zu gelangen, und weshalb ein sicherer Umgang mit Passwörtern wichtig ist.
+* **Authentifizierung:** Ich habe gelernt, dass damit überprüft wird, ob eine Person wirklich diejenige ist, für die sie sich ausgibt, zum Beispiel mit einem Passwort oder einem SMS-Code.
+* **Autorisierung:** Ich weiss jetzt, dass damit festgelegt wird, auf welche Daten und Funktionen eine angemeldete Person zugreifen darf.
+* **Vishing & Passwortsicherheit:** Ich habe gelernt, dass Angreifer mit gefälschten Anrufen versuchen können, an vertrauliche Informationen zu gelangen. Sichere Passwörter und ein vorsichtiger Umgang mit persönlichen Angaben helfen, solche Risiken zu reduzieren.
