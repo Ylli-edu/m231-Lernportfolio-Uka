@@ -13,6 +13,18 @@
 * **Peer-Feedback:** Gegenseitig unsere Lernjournale durchgelesen und Tipps gegeben.
 
 ---
+### Das revidierte Datenschutzgesetz (revDSG)
+
+Seit September 2023 gilt in der Schweiz das neue revDSG. Es regelt, was Firmen mit unseren Daten machen dürfen.
+
+* **Wichtige Regeln:**
+  * **Datensparsamkeit:** Firmen dürfen nur Daten sammeln, die sie wirklich brauchen.
+  * **Zweckbindung:** Daten dürfen nicht heimlich für was anderes benutzt werden.
+  * **Besonders schützenswerte Daten:** Infos über Gesundheit, Religion, Politik oder Biometrie müssen extrem gut geschützt werden.
+* **Strenge Bussen:** Wer vorsätzlich gegen das Gesetz verstösst, riskiert Bussen bis zu **250'000 CHF** – und zwar die verantwortliche Person privat, nicht nur die Firma!
+* **Datenpanne:** Wenn Daten gestohlen werden, muss man das innerhalb von **72 Stunden** dem EDÖB (Datenschutzbeauftragten) melden.
+
+---
 
 ### Notizen zum revidierten Datenschutzgesetz (revDSG) (Notizen von anderen PPT's)
 
@@ -34,12 +46,6 @@
 *   **Firmenbusse:** Bis zu 50'000 CHF
 *   **Haftstrafe**
 *   **Schadenersatz**
-
-
-
-
-
-
 
 
 
