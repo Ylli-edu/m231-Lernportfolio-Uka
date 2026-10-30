@@ -47,7 +47,7 @@ flowchart LR
 ### **Erklärung & Ziel**
 Um sicherzustellen, dass eine Datei bei der Übertragung nicht verändert oder beschädigt wurde (**Integritätsprüfung**), wird ein kryptografischer **Hashwert** (Fingerabdruck) berechnet. Ändert sich die Datei auch nur minimal, verändert sich der Hashwert komplett.
 
-### **Durchführung**
+### **1. Durchführung**
 In der Windows PowerShell wurde der MD5-Hashwert für die Datei `Gebäudeplan.png` ermittelt:
 
 ```powershell
@@ -65,6 +65,21 @@ Get-FileHash "C:\Users\yiua\Downloads\Gebäudeplan.png" -Algorithm MD5
 <img width="1732" height="407" alt="Screenshot 2026-10-19 144749" src="https://github.com/user-attachments/assets/aa98d5d7-e6da-4af2-800e-ea71b6ec2283" />
 
 ---
+### **2. Durchführung**
+In der Windows PowerShell wurde der MD5-Hashwert für die Datei `Hallo.vbs` ermittelt:
+Get-FileHash "C:\Users\yiua\OneDrive - Bellini Personal AG\Desktop\hallo.vbs" -Algorithm MD5
+
+**Ausgabe / Ergebnis:**
+
+* **Algorithmus:** MD5
+* **Hash-Wert:** FB888618B9B15712532FD36B33C5C14A
+* **Datei-Pfad:** C:\Users\yiua\OneDrive - Bellini Personal AG\Desktop\hallo.vbs
+<img width="1094" height="119" alt="Screenshot 2026-10-30 092013" src="https://github.com/user-attachments/assets/162ce580-2416-4f0b-bb62-83c30259fd16" />
+
+
+
+
+
 
 # Was habe ich heute gelernt?
 
