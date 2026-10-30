@@ -41,6 +41,8 @@ Unter Windows mit **Gpg4win / Kleopatra**:
 2. **Public Key exportiert:** Als `.asc`-Datei gespeichert und an Herr Gassmann gemailt.
 3. **Key von Herr Gassmann importiert:** Seinen öffentlichen Schlüssel in Kleopatra geladen und beglaubigt (`trust`).
 4. **Nachricht verschlüsselt & signiert:** Nachricht mit seinem Public Key verschlüsselt, mit meinem Private Key signiert und die verschlüsselte Datei per Mail an ihn geschickt.
+<img width="996" height="114" alt="Screenshot 2026-10-30 095050" src="https://github.com/user-attachments/assets/d4094f2e-d48d-458d-a74d-253da4c17c22" />
+
 
 ---
 
