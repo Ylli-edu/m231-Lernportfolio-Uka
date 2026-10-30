@@ -101,6 +101,14 @@ Wie krass viele digitale Spuren man beim ganz normalen Surfen hinterlässt, ohne
 </details>
 
 
+---
+
+## 3. Was habe ich heute gelernt?
+
+* **Aha-Moment bei Verschlüsselung:** Symmetrische Verschlüsselung ist extrem schnell und sicher (wie AES), hat aber eine riesige Schwachstelle: Das Problem der Schlüsselübertragung. Wenn der Schlüssel abgefangen wird, ist alles verloren.
+* **Erkenntnis zum DSB:** Ein Datenschutzbeauftragter ist nicht da, um Mitarbeiter zu schikanieren, sondern hilft mit festen Checklisten, Bussen und Datenverluste zu verhindern.
+* **Persönliches Fazit:** Historische Chiffren wie Cäsar versteht man schnell, aber erst bei modernen Verfahren wie AES merkt man, wie wichtig Mathematik für echten Datenschutz ist.
+---
 
 ## Fazit Tag 06
 
