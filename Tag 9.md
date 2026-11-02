@@ -11,7 +11,7 @@
 Heute haben wir uns vor allem mit **Backup-Konzepten**, **RAID** und dem Schutz vor **Ransomware** beschäftigt:
 
 * **RAID ist kein Backup:** Das ist der wichtigste Punkt! RAID hilft nur gegen den Hardware-Ausfall von Festplatten. Wenn Dateien versehentlich gelöscht werden oder Ransomware alles verschlüsselt, wird das auf allen Disks gespiegelt.
-* **3-2-1-Regel:** 3 Kopien, 2 verschiedene Medien und mindestens 1 Kopie offline/extern speichern.
+* **3-2-1-Regel:** 3 Kopien, 2 verschiedene Medien und mindestens 1 Kopie offline/extern speichern.**(Lernziel)**
 * **Backup-Typen:** Vollbackup (alles sichern), inkrementell (nur die neuesten Änderungen) und differentiell (Änderungen seit dem letzten Vollbackup).
 
 ---
